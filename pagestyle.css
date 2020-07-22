@@ -63,6 +63,13 @@ img{
     outline: 0;
     border: white;
     cursor: pointer;
+    font-size: 20px;
+}
+
+@media (max-width: 968px) {
+    .container{
+        width: 90%;
+    }
 }
 
 
