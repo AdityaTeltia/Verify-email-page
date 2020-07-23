@@ -83,6 +83,9 @@ img{
     background: linear-gradient(180deg, blue 50%, lightgray 50%);
 
     }
+    img{
+        height: 250px;
+    }
 }
 
 
